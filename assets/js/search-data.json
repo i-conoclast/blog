@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "한글 테스트",
-            "content": "import pandas as pd import numpy as np import matplotlib.pyplot as plt . &lt;/img&gt; Created in Deepnote .",
+            "content": "import pandas as pd import numpy as np import matplotlib.pyplot as plt . 마크다운도 한글로 추가 . &lt;/img&gt; Created in Deepnote .",
             "url": "https://sorappang.github.io/blog/jupyter/2021/12/27/test.html",
             "relUrl": "/jupyter/2021/12/27/test.html",
             "date": " • Dec 27, 2021"
